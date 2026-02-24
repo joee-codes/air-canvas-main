@@ -9,15 +9,18 @@ Simple hand-tracking "air drawing" app using MediaPipe, OpenCV, and NumPy.
 ## Setup (Powershell)
 ```powershell
 # Optional: create and activate a virtual environment
+
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
 # Upgrade pip and install dependencies
+
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```   
 
 If `mediapipe` fails to install on your machine, see troubleshooting below.
+
 
 ## Run
 ```powershell
@@ -39,6 +42,7 @@ python -m pip install mediapipe
 
 ---
 Made by: Air Canvas helper
+
 
 
 
