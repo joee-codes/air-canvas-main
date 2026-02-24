@@ -22,7 +22,7 @@ If `mediapipe` fails to install on your machine, see troubleshooting below.
 ## Run
 ```powershell
 python air_canvas.py
-```   
+```
 
 Controls:
 - Index finger up: Draw
@@ -39,5 +39,6 @@ python -m pip install mediapipe
 
 ---
 Made by: Air Canvas helper
+
 
 
