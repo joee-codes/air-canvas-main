@@ -33,6 +33,8 @@ Controls:
 - `C`: Clear canvas
 - `Q`: Quit
 
+
+
 ## Troubleshooting
 - If you see `ModuleNotFoundError: No module named 'mediapipe'`, run:
 ```powershell
@@ -44,6 +46,7 @@ python -m pip install mediapipe
 
 
 Made by: Jyothi
+
 
 
 
