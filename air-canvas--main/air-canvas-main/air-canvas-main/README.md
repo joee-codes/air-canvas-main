@@ -45,7 +45,8 @@ python -m pip install mediapipe
 ---
 
 
-Made by: Jyothi
+Made by: Jyothi L
+
 
 
 
