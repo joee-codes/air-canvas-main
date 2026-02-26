@@ -1,3 +1,4 @@
+# importing liabraries
 import cv2
 import numpy as np
 import mediapipe as mp
@@ -23,4 +24,5 @@ else:
     cap.release()
 
 print('Smoke test finished')
+
 
