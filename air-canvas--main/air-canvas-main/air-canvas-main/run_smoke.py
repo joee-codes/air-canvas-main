@@ -6,7 +6,7 @@ print('cv2', cv2.__version__)
 print('numpy', np.__version__)
 print('mediapipe', mp.__version__)
 
-# Try to create a hands detector
+# Try to create a hands detector 
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(max_num_hands=1)
 print('Hands created')
@@ -23,3 +23,4 @@ else:
     cap.release()
 
 print('Smoke test finished')
+
